@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋  
+My name is Pedro MacDowell, I'm passionate about technology and automation.  
+I'm always learning and improving my skills to build efficient and practical solutions.
 
-<!--
-**PedroMacDowell/PedroMacDowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's what I'm working with and studying:
 
-Here are some ideas to get you started:
+### Programming & Automation:
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python-logo">
+- <img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Automation-logo">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-end:
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-logo">
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-logo">
+
+<br>
+
+
